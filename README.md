@@ -11,4 +11,5 @@ Plaid API can be very time consuming to implement as it relies on many security 
 # Setup
 1. Clone this repo
 2. Run `bun install` (or use any other package manager)
-3. Run the development server
+3. Create an .env.local file consisting of your Plaid keys
+4. Run the development server
