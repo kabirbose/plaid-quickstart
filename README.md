@@ -1,5 +1,5 @@
 # Plaid Quickstart
-The Plaid API has a complex implementation. This is my barebones quickstart app, allowing you to easily implement Plaid into NextJS 14+ projects.
+The Plaid API has a complex implementation process. This is my barebones quickstart app, allowing you to easily implement Plaid into NextJS 14+ projects.
 
 # Why my quickstart?
 - Bun.js
