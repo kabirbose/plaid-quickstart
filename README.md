@@ -1,15 +1,15 @@
-# Plaid-NextJS Quickstart
-Plaid API can be very time consuming to implement as it relies on many security policies. You can skip all of those steps with this barebones quickstart guide, allowing you to easily implement it into NextJS 14+.
+# Plaid Quickstart
+The Plaid API has a complex implementation. This is my barebones quickstart guide, allowing you to easily implement Plaid into NextJS 14+ projects.
 
-# Features
-- BunJS
+# Why my quickstart?
+- Bun.js
 - TypeScript
 - Tailwind
-- Already has context created for access token
-- Barebones for you to customize
+- React context for access token
+- Plain with less code
 
-# Setup
-1. Clone this repo
+# Get started
+1. Clone this repository
 2. Run `bun install` (or use any other package manager)
-3. Create an .env.local file consisting of your Plaid keys
+3. Create a `.env.local` file consisting of your Plaid keys
 4. Run the development server
