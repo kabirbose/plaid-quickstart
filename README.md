@@ -2,11 +2,11 @@
 The Plaid API has a complex implementation process. This is my barebones quickstart app, allowing you to easily implement Plaid into NextJS 14+ projects.
 
 # Why my quickstart?
-- Bun.js
-- TypeScript
-- Tailwind
-- React context for access token
-- Plain with less code
+- Uses Bun.js
+- Written in TypeScript
+- Tailwind for styling
+- React Context pre-defined
+- Less boiler-plate code
 
 # Get started
 1. Clone this repository
